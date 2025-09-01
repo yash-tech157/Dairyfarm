@@ -54,6 +54,6 @@ Create a `.env` file in the root of the project and add your MongoDB connection 
 
 ```env
 PORT=5000
-MONGO_URI=your_mongodb_connection_string
+MONGO_URI=mongodb_connection_/dairy
 
 video url for project -  https://www.awesomescreenshot.com/video/43699181?key=c2b7f494c60b90746989db4ba698dabb
